@@ -1,5 +1,6 @@
 # newly-created-repo
 How to clone a git repository on a mac using the terminal.
+
 1. Create a Repo on GitHub.
 2. Create a folder where your newly created Repo will live.
 3. Go to that folder using the terminal. 
