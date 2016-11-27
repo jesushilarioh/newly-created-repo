@@ -8,9 +8,6 @@ How to clone a git repository on a mac using the terminal.
 5. Clone the newly created Repo in the folder where your 
     newly created Repo will live.
 6. Create files to add to newly created repo.
-7. Add files to repo using the terminal by ADDing, COMMITing, 
-    and then PUSHing.
-    
-8. Thanks for watching. This Particular file will be the 
-    README.me file on this repository on my GitHub Profile. 
+7. Add files to repo using the terminal by ADDing, COMMITing, and then PUSHing.  
+8. Thanks for watching. This Particular file will be the README.me file on this repository on my GitHub Profile. 
 Please find it and star it so I know that it was helpful!
