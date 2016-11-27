@@ -10,3 +10,9 @@
 8. Thanks for watching. This Particular file will be the README.me file on this repository on my GitHub Profile. 
 Please find it and star it so I know that it was helpful!
 
+# How to add file to an all ready existing repository on a mac using the terminal.
+1. Get already existing files from repository
+2. Change existing files on machine
+3. ADD
+4. COMMIT
+5. PUSH
